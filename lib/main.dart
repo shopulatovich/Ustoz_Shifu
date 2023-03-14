@@ -12,7 +12,7 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       home: Scaffold(
         appBar: AppBar(
-          title: Text('Git and gitHub'),
+          title: Text('gitHub'),
         ),
         body: Center(
           child: Column(
